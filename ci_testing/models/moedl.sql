@@ -1,1 +1,1 @@
-select name as {{ env_var("tests") }} from {{ ref('model_seed_file_1') }}
+select name as {{ env_var("TESTS") }} from {{ ref('model_seed_file_1') }}
