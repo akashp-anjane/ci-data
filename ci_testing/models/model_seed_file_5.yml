@@ -1,0 +1,29 @@
+version: 2
+models:
+  - name: model_seed_file_5
+    columns:
+      - name: id
+        description: ""
+        meta:
+          dimension:
+            type: number
+      - name: name
+        description: ""
+        meta:
+          dimension:
+            type: string
+      - name: email
+        description: ""
+        meta:
+          dimension:
+            type: string
+      - name: address
+        description: ""
+        meta:
+          dimension:
+            type: string
+      - name: date_joined
+        description: ""
+        meta:
+          dimension:
+            type: date

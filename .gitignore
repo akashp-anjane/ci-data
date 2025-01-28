@@ -2,3 +2,4 @@ cienv/
 target/
 dbt_packages/
 logs/
+name/

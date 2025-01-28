@@ -1,0 +1,9 @@
+version: 2
+models:
+  - name: moedl
+    columns:
+      - name: hello
+        description: ""
+        meta:
+          dimension:
+            type: string
